@@ -14,10 +14,12 @@ My name is Herve Kamdem, and I am an experienced AWS DevOps Engineer with a pass
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Ansible](https://img.shields.io/badge/-Ansible-blackwhite?style=flat-square&logo=ansible)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
+![Intellij](https://img.shields.io/badge/-Intellij-black?style=flat-square&logo=intellij)
+![Maven](https://img.shields.io/badge/-Maven-white?style=flat-square&logo=maven)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hervekamdem&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hervekamdem&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hervekamdem.hervekamdem)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=[hervekamdem.hervekamdem])
 
